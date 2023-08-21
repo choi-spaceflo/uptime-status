@@ -1,7 +1,7 @@
 url: https://qa.unicornvalley.io
-status: up
-code: 200
-responseTime: 653
-lastUpdated: 2023-08-21T00:57:43.333Z
+status: down
+code: 502
+responseTime: 550
+lastUpdated: 2023-08-21T04:51:04.404Z
 startTime: 2023-08-21T00:57:42.676Z
 generator: Upptime <https://github.com/upptime/upptime>
