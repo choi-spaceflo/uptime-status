@@ -23,7 +23,9 @@ sites:
     url: https://poinex.co.kr
   - name: welcomeskinfit
     url: https://welcomeskinfit.com
-
+  - name: startupskku
+    url: https://startup.skku.edu
+    
 assignees: # Users to assign downtime issues (optional)
   - choi-spaceflo
 #status-website:
