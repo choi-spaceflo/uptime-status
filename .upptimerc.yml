@@ -24,7 +24,7 @@ sites:
   - name: welcomeskinfit
     url: https://welcomeskinfit.com
   - name: startupskku
-    url: https://startup.skku.edu
+    url: http://startup.skku.edu
     
 assignees: # Users to assign downtime issues (optional)
   - choi-spaceflo
