@@ -1,7 +1,7 @@
 url: http://startup.skku.edu
-status: down
-code: 502
-responseTime: 542
-lastUpdated: 2023-12-09T05:41:47.584Z
+status: up
+code: 200
+responseTime: 3132
+lastUpdated: 2023-12-09T05:53:19.083Z
 startTime: 2023-09-04T05:13:19.177Z
 generator: Upptime <https://github.com/upptime/upptime>
