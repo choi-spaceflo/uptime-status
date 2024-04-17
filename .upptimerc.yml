@@ -5,26 +5,30 @@ repo: uptime-status # The name of this repository
 sites:
   - name: u12
     url: https://unicornvalley.io
-  - name: qa-u12
-    url: https://qa.unicornvalley.io
-  - name: test-u12
-    url: https://test.unicornvalley.io/
-  - name: sesdashboard
-    url: https://sesdashboard.u12.io
+#  - name: qa-u12
+#    url: https://qa.unicornvalley.io
+#  - name: test-u12
+#    url: https://test.unicornvalley.io/
+#  - name: sesdashboard
+#    url: https://sesdashboard.u12.io
   - name: spaceflo
     url: https://spaceflo.io
   - name: injobfit
     url: https://sub.injobfit.com
   - name: ritzbrooks
     url: https://ritzbrooks.com
-  - name: dkhc
-    url: https://dkhc.kr
+#  - name: dkhc
+#    url: https://dkhc.kr
   - name: poinex
     url: https://poinex.co.kr
   - name: welcomeskinfit
     url: https://welcomeskinfit.com
   - name: startupskku
-    url: http://startup.skku.edu
+    url: https://startup.skku.edu
+  - name: ohmybot.co
+    url: https://ohmybot.co
+  - name: ohmybot.team
+    url: https://ohmybot.team
     
 assignees: # Users to assign downtime issues (optional)
   - choi-spaceflo
