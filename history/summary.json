@@ -178,9 +178,9 @@
     "url": "https://welcomeskinfit.com",
     "icon": "https://icons.duckduckgo.com/ip3/welcomeskinfit.com.ico",
     "slug": "welcomeskinfit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "83.60%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "99.68%",
@@ -190,6 +190,7 @@
     "timeMonth": 421,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2024-09-10": 0,
       "2024-09-08": 1206,
       "2024-09-07": 447,
       "2024-04-03": 31
@@ -204,7 +205,7 @@
     "uptime": "64.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.82%",
+    "uptimeMonth": "59.90%",
     "uptimeYear": "63.86%",
     "time": 3302,
     "timeDay": 2584,
