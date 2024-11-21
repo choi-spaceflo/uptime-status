@@ -23,8 +23,12 @@ sites:
     url: https://ohmybot.team
   - name: demo1.ohmybot.team
     url: https://demo1.ohmybot.team
-  - name: demo2.ohmybot.team
-    url: https://demo2.ohmybot.team
+  - name: skindoctork.com
+    url: https://skindoctork.com
+  - name: 47.u12.io
+    url: https://47.u12.io
+#  - name: demo2.ohmybot.team
+#    url: https://demo2.ohmybot.team
     
 assignees: # Users to assign downtime issues (optional)
   - choi-spaceflo
