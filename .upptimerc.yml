@@ -7,6 +7,8 @@ sites:
     url: https://pve1.spaceflo.io
   - name: proxy-svr
     url: https://cp100.spaceflo.io
+  - name: cpseoul
+    url: https://cpseoul.spaceflo.io
     
 assignees: # Users to assign downtime issues (optional)
   - choi-spaceflo
