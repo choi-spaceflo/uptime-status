@@ -4,18 +4,20 @@
     "url": "https://pve1.spaceflo.io",
     "icon": "https://icons.duckduckgo.com/ip3/pve1.spaceflo.io.ico",
     "slug": "pve1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 582,
-    "timeWeek": 547,
-    "timeMonth": 552,
-    "timeYear": 552,
-    "dailyMinutesDown": {}
+    "time": 549,
+    "timeDay": 547,
+    "timeWeek": 543,
+    "timeMonth": 549,
+    "timeYear": 549,
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "proxy-svr",
