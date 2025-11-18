@@ -1,7 +1,7 @@
 url: https://cpseoul.spaceflo.io
-status: up
-code: 200
-responseTime: 1981
-lastUpdated: 2025-11-17T23:18:03.309Z
+status: down
+code: 500
+responseTime: 138
+lastUpdated: 2025-11-18T11:56:18.285Z
 startTime: 2025-02-24T04:00:49.220Z
 generator: Upptime <https://github.com/upptime/upptime>
